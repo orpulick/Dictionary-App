@@ -12,10 +12,10 @@ export default function App() {
         <footer>
           This project was coded by Olivia Pulick.
           <a href="https://github.com/orpulick/Dictionary-App">
-            {" "}
             Open-sourced
           </a>{" "}
-          by Github. Hosted by Netilfy.
+          by Github. Hosted by{" "}
+          <a href="https://famous-biscuit-e95339.netlify.app/">Netilfy</a>.
         </footer>
       </div>
     </div>

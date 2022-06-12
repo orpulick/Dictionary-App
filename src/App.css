@@ -1,8 +1,23 @@
 footer {
   font-size: 11px;
-  margin-top: 20px;
+  margin: 30px 0;
   text-align: center;
+  color: white;
+}
+footer a {
+  color: #fff1c1;
+}
+footer a:hover {
+  color: white;
+  text-decoration: none;
 }
 body {
-  background: #fff1c1;
+  background: #808b97;
+}
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.App-header {
+  margin: 30px 0;
 }

@@ -1,0 +1,13 @@
+.Dictionary h1 {
+  text-align: center;
+}
+.Dictionary h4 {
+  text-align: center;
+}
+.Dictionary input {
+  width: 100%;
+  border-radius: 6px;
+  padding: 6px 10px;
+  color: #333;
+  border: 1px solid #ddd;
+}
