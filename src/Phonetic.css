@@ -6,11 +6,13 @@
   border: 1px solid #78b7bb;
   margin-right: 20px;
   color: #78b7bb;
+  margin-top: 100px;
 }
 .Phonetic a:hover {
   background: #78b7bb;
   color: white;
 }
 .Phonetic {
+  padding-top: 10px;
   height: 50px;
 }
