@@ -1,0 +1,9 @@
+.Meaning h5 {
+  line-height: 1.5;
+  font-weight: bold;
+  color: #78b7bb;
+  font-size: 30px;
+}
+.Meaning .Example{
+    font-style: italic;
+}
